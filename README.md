@@ -58,6 +58,6 @@ Below is the wiring table for connecting the Arduino and components:
 
 ## Here is some example image
 
-<img src="images/avoidingRobot.jpg" alt="Wiring Diagram" title="Arduino Obstacle Avoiding Robot " width="400">
+<img src="images/avoidingRobot.jpg" alt="Wiring Diagram" title="Arduino Obstacle Avoiding Robot " width="600">
 
-<img src="images/circuit.jpg" alt="Wiring Diagram" title="Arduino Obstacle Avoiding Robot " width="400">
+<img src="images/circuit.jpg" alt="Wiring Diagram" title="Arduino Obstacle Avoiding Robot " width="600">
