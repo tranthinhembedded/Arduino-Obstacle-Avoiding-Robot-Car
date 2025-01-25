@@ -2,14 +2,14 @@
 
 ## Hardware
 
-1 . Arduino Uno R3 
-2. L293D Motor Driver Shield 
-3. Micro Servo 
-4. Ultrasonic Sensor Module 
-5.  4 x Geared DC Motors & Wheels 
-6.  9-12V Battery Pack 
-7. 8 x M3 x 15mm Socket Head Screws 
-8.  Ribbon Cable 
+1. Arduino Uno R3
+2. L293D Motor Driver Shield
+3. Micro Servo
+4. Ultrasonic Sensor Module
+5. 4 x Geared DC Motors & Wheels
+6. 9-12V Battery Pack
+7. 8 x M3 x 15mm Socket Head Screws
+8. Ribbon Cable
 9. Header Pins
 
 ## Software
